@@ -4,6 +4,6 @@
 
 ### Languages and tools I work with:
 <code>
-   <img src="[[https://www.nicepng.com/png/detail/352-3529769_html5-course-training-content-details-logo-html-5.png](http://assets.stickpng.com/images/5847f5aecef1014c0b5e489a.png)](https://cdn-icons-png.flaticon.com/512/1051/1051328.png)" width="60" height="40" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width="60" height="40" />
   
 <code/>
