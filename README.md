@@ -4,7 +4,6 @@
 
 ### Languages and tools I work with:
 
-  <h3>HTML<h3/>
-  <h3>CSS<h3/>
-  <h3>JS<h3/>
+  <h5>HTML CSS JS SASS REACT <h3/>
+ 
 
