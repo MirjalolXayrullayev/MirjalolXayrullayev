@@ -3,8 +3,8 @@
 
 
 ### Languages and tools I work with:
-<code>
+
   <h3>HTML<h3/>
   <h3>CSS<h3/>
   <h3>JS<h3/>
-<code/>
+
