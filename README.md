@@ -4,6 +4,6 @@ Languages
 
 ### Languages and tools I work with:
 <code>
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZZi0F0-b3_mwXXjsReUtMxdl92LT3h7fDBg&usqp=CAU" width="40" height="40" />
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLysaamzIf789q7FqjfpSi8jqWTtzRmt7VrV8PHNe8bCjMEYbpyyVEVPxoT5rpTV_ME0g&usqp=CAU" width="40" height="40" />
   
 <code/>
