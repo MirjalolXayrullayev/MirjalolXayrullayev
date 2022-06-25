@@ -4,6 +4,6 @@ Languages
 
 ### Languages and tools I work with:
 <code>
-   <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLysaamzIf789q7FqjfpSi8jqWTtzRmt7VrV8PHNe8bCjMEYbpyyVEVPxoT5rpTV_ME0g&usqp=CAU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi-KPKX_R519MEfzZ0du64bKkUMqbOwRiXdCSlTLzVHWZRtyJD8P1wjGLTwU5M-bZwMGk&usqp=CAU)" width="100" height="40" />
+   <img src="[[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLysaamzIf789q7FqjfpSi8jqWTtzRmt7VrV8PHNe8bCjMEYbpyyVEVPxoT5rpTV_ME0g&usqp=CAU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi-KPKX_R519MEfzZ0du64bKkUMqbOwRiXdCSlTLzVHWZRtyJD8P1wjGLTwU5M-bZwMGk&usqp=CAU)](https://brandslogos.com/wp-content/uploads/thumbs/html-logo-black-and-white.png)" width="100" height="40" />
   
 <code/>
