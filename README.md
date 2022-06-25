@@ -4,6 +4,6 @@
 
 ### Languages and tools I work with:
 
-  <h5>HTML CSS JS SASS REACT REDUX<h3/>
+  <h5>HTML CSS JS Sass React Redux bootstrap <h3/>
  
 
