@@ -4,6 +4,6 @@
 
 ### Languages and tools I work with:
 <code>
-   <img src="https://www.pngitem.com/pimgs/m/23-237369_html5-and-css3-transparent-background-html-logo-hd.png" width="60" height="60" />
+   <img src="https://www.pngitem.com/pimgs/m/23-237369_html5-and-css3-transparent-background-html-logo-hd.png" width="120" height="60" />
   
 <code/>
