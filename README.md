@@ -6,4 +6,6 @@
 
   <h5>Html Css Bootstrap Sass JavaScript React Redux <h3/>
  
-
+  
+  Current location: Navoiy, Uzbekistan
+  How to reach me: (+998 99 257 75 85)
